@@ -5,7 +5,6 @@
     "homepage": "https://github.com/80h4ck/yii2-qiniu",
     "license": "Apache-2.0",
     "minimum-stability": "stable",
-    "version": "v1.0.0",
     "authors": [
         {
             "name": "80h4ck",
