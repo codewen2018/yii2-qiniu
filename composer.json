@@ -2,20 +2,25 @@
     "name": "80h4ck/yii2-qiniu",
     "description": "yii2上传到七牛云存储",
 	"keywords": ["yii", "qiniu", "upload"],
-	"type": "yii2-extension",
-    "license": "MIT",
-	 "version": "1.0.0",
+    "homepage": "https://github.com/80h4ck/yii2-qiniu",
+    "license": "Apache-2.0",
+    "minimum-stability": "stable",
+    "version": "v1.0.0",
     "authors": [
         {
             "name": "80h4ck",
             "email": "80h4ck@gmail.com"
         }
     ],
-	
-    "require": {
-       
+    "support": {
+        "issues": "https://github.com/80h4ck/yii2-qiniu/issues"
     },
-	"autoload": {
-		"psr-4": { "80h4ck\\qiniu\\": "" }
-	}
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "80h4ck\\qiniu\\": ""
+        }
+    }
 }
