@@ -1,0 +1,20 @@
+{
+    "name": "80h4ck/yii2-qiniu",
+    "description": "yii2上传到七牛云存储",
+	"keywords": ["yii", "qiniu", "upload"],
+	"type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "80h4ck",
+            "email": "80h4ck@gmail.com"
+        }
+    ],
+	
+    "require": {
+       
+    },
+	"autoload": {
+		"psr-4": { "80h4ck\\qiniu\\": "" }
+	}
+}
