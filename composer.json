@@ -4,6 +4,7 @@
 	"keywords": ["yii", "qiniu", "upload"],
 	"type": "yii2-extension",
     "license": "MIT",
+	"minimum-stability": "stable",
     "authors": [
         {
             "name": "80h4ck",
