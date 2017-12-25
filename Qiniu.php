@@ -1,6 +1,6 @@
 <?php
 
-namespace 80h4ck\qiniu;
+namespace codewen2018\qiniu;
 use yii\web\HttpException;
 
 
